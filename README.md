@@ -3,7 +3,7 @@ Exercícios de Reaquecimento
 
 Vamos fazer alguns exercícios para relembrar alguns conceitos e aproveitar para "desenferrujar" nossas habilidades de desenvolvimento.
 
-1. Escreva, compile e execute o programa abaixo. Em seguida, troque sua implementação para que a classe Incremental seja Singleton. Execute novamente e veja os resultados. Em caso de dúvida, consulte seu par e o material de apoio no moodle.
+1. Escreva, compile e execute o programa abaixo. Em seguida, troque sua implementação para que a classe Incremental seja Singleton. Execute novamente e veja os resultados. Em caso de dúvida, consulte seu par.
 
     ```
     class Incremental {
